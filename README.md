@@ -12,4 +12,4 @@
 - Data analysis: Pandas
 - Mail transfer protocol: Smtplib
 - Search pattern: RegEx
-
+- Database adapter : Psycopg2 (PostgreSQL)
